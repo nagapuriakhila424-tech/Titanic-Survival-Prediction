@@ -67,7 +67,7 @@ The trained classification model predicts passenger survival with good accuracy,
 
 ## 👩‍💻 Author
 **Nagapuri Akhila**
-Aspiring Data Analyst| Python | SQL |Machine Learning
+Aspiring Data Analyst|Python|SQL|Machine Learning.
 
 
 
